@@ -38,7 +38,7 @@ After you added above line to `~/.bashrc` you can just type ng commands as if An
 
 ##### Generate Components, Directives, Pipes and Services
 
-`ng g component my-new-component # Generates a new component`
-`ng g directive my-new-directive # Generates a new directive`
-`ng g pipe my-new-pipe # Generates a new pipe`
-`ng g service my-new-service # Generates a new service`
+`ng g component my-new-component # Generates a new component`  
+`ng g directive my-new-directive # Generates a new directive`  
+`ng g pipe my-new-pipe # Generates a new pipe`  
+`ng g service my-new-service # Generates a new service`  
