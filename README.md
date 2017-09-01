@@ -6,11 +6,9 @@ See https://cli.angular.io/ for more information.
 
 ## Software versions
 
-angular-cli: latest
-
-node: 6.10.0
-
-npm: 3.1.10
+- angular-cli: latest
+- node: 6.10.0
+- npm: 3.1.10
 
 ## Create new containers "on-live"
 
