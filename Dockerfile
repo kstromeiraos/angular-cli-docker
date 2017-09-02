@@ -14,7 +14,7 @@
 
 FROM node:6.10.0
 
-MAINTAINER José Antonio López <dev@kstromeiraos.com>
+MAINTAINER José Antonio López <joseantoniolopezfojo@gmail.com>
 
 RUN useradd --user-group --create-home --shell /bin/false app
 
