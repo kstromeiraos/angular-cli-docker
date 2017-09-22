@@ -1,5 +1,5 @@
 # Angular CLI (latest) on Node 6.10.0
-# Copyright (C) 2017 José Antonio López <joseantoniolopezfojo@gmail.com>
+# Copyright (C) 2017 José Antonio López <dev@kstromeiraos.com>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
